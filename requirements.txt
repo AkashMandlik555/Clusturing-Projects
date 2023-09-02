@@ -1,0 +1,12 @@
+pandas
+numpy
+mkdocs
+geopandas
+nltk
+scikit-learn
+matplotlib
+seaborn
+Folium
+branca
+wordcloud
+ipykernel
